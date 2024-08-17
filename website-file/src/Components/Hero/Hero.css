@@ -2,6 +2,7 @@
   height: 100vh;
   background: linear-gradient(180deg, #fde1ff,#e1ffea22 60%);
   display: flex;
+ 
   
 }
 .hero-left{
@@ -51,4 +52,7 @@
   flex: 1;
   align-items: center;
   justify-content: center;
+}
+.hero-right img{
+  height: 90%;
 }

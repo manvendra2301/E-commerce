@@ -1,6 +1,10 @@
 .item{
-  width: 350px;
-
+  width: 320px;
+}
+.item img{
+  width: 300px;
+  object-fit: cover;
+  
 }
 .item p{
   margin: 6px 0px;
@@ -11,7 +15,7 @@
 }
 .item-price-new{
   color: #374151;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
 }
 .item-price-old{
